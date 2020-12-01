@@ -8,6 +8,7 @@ import Sandy from './components/pages/Sandy';
 import Shaan from './components/pages/Shaan';
 import Mark from './components/pages/Mark';
 import Arvin from './components/pages/Arvin';
+import Trailer from "./components/Trailer";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path='/shaan' component={Shaan} />
           <Route path='/mark' component={Mark} />
           <Route path='/arvin' component={Arvin} />
+          <Route path='/trailer' component={Trailer} />
         </Switch>
       </Router>
     </>
