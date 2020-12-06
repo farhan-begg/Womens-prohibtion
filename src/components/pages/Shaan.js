@@ -2,13 +2,29 @@ import React from 'react';
 import '../../App.css';
 
 export default function Shaan() {
-  return <h1 className="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac lacus elit. Sed auctor accumsan magna. Aliquam elementum lectus hendrerit, auctor odio quis, imperdiet mi. Sed commodo augue orci, in mattis eros elementum id. Phasellus gravida eget urna a tristique. Fusce rhoncus fringilla suscipit. Donec bibendum in odio et luctus. Donec tempus, orci nec porttitor porta, metus turpis hendrerit dui, quis faucibus odio dui ac libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam commodo dui ac scelerisque tristique. Vestibulum ut nibh sit amet nunc semper vestibulum sed sit amet metus. Curabitur a orci tincidunt, iaculis tellus eu, mollis odio.
+  return (
+    <div className="shaan-container">
+      <h1>The Broken Gener Barrier</h1>
+      <p>
+        The prohibition era was an era of radical reform for women. Before the 1920s women were forced to carry on stereotypical gender roles that
+         prevented them from having much freedom. After the suffrage  movement was passed in 1920, women became optimistic and venturous with their 
+         new found freedom. Women started to dramatically shift the notion on how women should behave. Women started to become heavily involved in 
+         politics by forming various parties including the National Woman's Party(NWP). The feminists movement originated during this time period, 
+         which was a belief in the political, economic and cultural equality of women. This inturn led to the Progressive era, during this time white 
+         women fought hard to break down barriers of oppression by pushing for equal rights and social reform. During a ten year span many women found 
+         themselves in the U.S. House of Representatives, the senate, and various high ranking positions in government. They were able to make huge 
+         strides by becoming a major contributor in educational reform, industrial reform, child health programs, and even had pensions for impoverished
+          dependent women. Woman groups lobbied for many different reforms and causes including the disarmament and the peace movement. This movement
+          was against violence and guns. Women were able to accomplish many tasks that seemed unachievable for many.
+      </p>
+      <p>
+        The 1920s was also a time of  promiscuity, this lead to the first documented sex revolution of american history. Women no longer felt the need to be "ladylike", 
+        instead women would go to bars, drink with the men, dress provocatively, and sometimes dance on tables. Women embodied new roles, fashion, lifestyle, etc.
+         that were radical to the original womanhood, this new generation became to be known as 'the new women'. Women no longer found the traditional 
+         lifestyle glamourous. It was much cooler to go against those norms. Women started to have more sex, less marriages, and less babies. Most women avoided 
+         motherhood all together by getting illegal abortions or taking contraceptives. 
+      </p>
+    </div>
+  )
 
-  Mauris dapibus sed nunc eu eleifend. Vivamus convallis sodales neque, ut accumsan elit mattis dignissim. Fusce blandit lacinia libero, eu sollicitudin arcu. Duis aliquet sit amet tortor quis hendrerit. Mauris rutrum, ipsum quis lobortis tincidunt, ipsum tortor viverra arcu, eu blandit nisi nibh ut purus. Vivamus non lobortis nisl, eu ornare sem. Vivamus ac eros hendrerit, mattis dui quis, cursus magna. Aenean iaculis volutpat quam id hendrerit. Aenean vel sapien efficitur, imperdiet arcu vitae, volutpat orci. Quisque vitae pretium felis, at molestie est. Mauris porta aliquam turpis, quis varius nunc tempus id. Ut luctus, nisl eu ultrices facilisis, velit tortor imperdiet dolor, ac viverra risus erat in ipsum. Donec non nibh est. Nulla facilisi. Nam eu lectus vel metus aliquet porttitor. Donec scelerisque posuere tortor.
-  
-  Donec ut commodo nunc, at aliquet odio. Quisque tempor diam leo, interdum malesuada lacus pulvinar eget. Pellentesque consectetur fringilla eleifend. Vestibulum in aliquet felis, vel feugiat quam. Phasellus non gravida neque. Curabitur massa arcu, placerat in diam non, semper interdum ante. Vestibulum posuere orci vel sollicitudin malesuada.
-  
-  Nulla bibendum posuere ex, vel consectetur orci ullamcorper nec. Vivamus nisl nibh, venenatis vitae dui non, eleifend egestas ligula. Quisque a dolor erat. Duis laoreet consectetur mi. Donec eget rutrum quam. Etiam eu iaculis orci. In libero nisl, posuere eu enim non, fermentum hendrerit nunc. Mauris libero ipsum, porttitor vitae egestas quis, aliquam et odio. Sed euismod consequat odio, tempor rhoncus metus placerat vitae. Suspendisse vitae augue nisi.
-  
-  Etiam sit amet sagittis mauris. Praesent ultricies ligula at est sollicitudin ullamcorper. Etiam id nisl dictum, condimentum elit non, tempus tortor. Maecenas quam orci, efficitur ut convallis nec, sollicitudin nec tellus. Vestibulum condimentum, lectus ac varius fermentum, justo velit imperdiet quam, vitae consectetur turpis urna ac diam. Etiam faucibus molestie dui et vulputate. Sed interdum malesuada sollicitudin. Phasellus eget consequat arcu. Mauris accumsan nunc at urna auctor, sed pellentesque elit lacinia. Morbi accumsan arcu a tellus vulputate, ut interdum odio mollis.</h1>;
 }
