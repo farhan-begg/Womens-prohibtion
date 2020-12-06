@@ -1,14 +1,29 @@
 import React from 'react';
-import '../../App.css';
+// import '../../App.css';
+import './sandy.css';
 
 export default function Sandy() {
-  return <h1 className="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac lacus elit. Sed auctor accumsan magna. Aliquam elementum lectus hendrerit, auctor odio quis, imperdiet mi. Sed commodo augue orci, in mattis eros elementum id. Phasellus gravida eget urna a tristique. Fusce rhoncus fringilla suscipit. Donec bibendum in odio et luctus. Donec tempus, orci nec porttitor porta, metus turpis hendrerit dui, quis faucibus odio dui ac libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam commodo dui ac scelerisque tristique. Vestibulum ut nibh sit amet nunc semper vestibulum sed sit amet metus. Curabitur a orci tincidunt, iaculis tellus eu, mollis odio.
-
-  Mauris dapibus sed nunc eu eleifend. Vivamus convallis sodales neque, ut accumsan elit mattis dignissim. Fusce blandit lacinia libero, eu sollicitudin arcu. Duis aliquet sit amet tortor quis hendrerit. Mauris rutrum, ipsum quis lobortis tincidunt, ipsum tortor viverra arcu, eu blandit nisi nibh ut purus. Vivamus non lobortis nisl, eu ornare sem. Vivamus ac eros hendrerit, mattis dui quis, cursus magna. Aenean iaculis volutpat quam id hendrerit. Aenean vel sapien efficitur, imperdiet arcu vitae, volutpat orci. Quisque vitae pretium felis, at molestie est. Mauris porta aliquam turpis, quis varius nunc tempus id. Ut luctus, nisl eu ultrices facilisis, velit tortor imperdiet dolor, ac viverra risus erat in ipsum. Donec non nibh est. Nulla facilisi. Nam eu lectus vel metus aliquet porttitor. Donec scelerisque posuere tortor.
+  return  <div className="Container">
   
-  Donec ut commodo nunc, at aliquet odio. Quisque tempor diam leo, interdum malesuada lacus pulvinar eget. Pellentesque consectetur fringilla eleifend. Vestibulum in aliquet felis, vel feugiat quam. Phasellus non gravida neque. Curabitur massa arcu, placerat in diam non, semper interdum ante. Vestibulum posuere orci vel sollicitudin malesuada.
-  
-  Nulla bibendum posuere ex, vel consectetur orci ullamcorper nec. Vivamus nisl nibh, venenatis vitae dui non, eleifend egestas ligula. Quisque a dolor erat. Duis laoreet consectetur mi. Donec eget rutrum quam. Etiam eu iaculis orci. In libero nisl, posuere eu enim non, fermentum hendrerit nunc. Mauris libero ipsum, porttitor vitae egestas quis, aliquam et odio. Sed euismod consequat odio, tempor rhoncus metus placerat vitae. Suspendisse vitae augue nisi.
-  
-  Etiam sit amet sagittis mauris. Praesent ultricies ligula at est sollicitudin ullamcorper. Etiam id nisl dictum, condimentum elit non, tempus tortor. Maecenas quam orci, efficitur ut convallis nec, sollicitudin nec tellus. Vestibulum condimentum, lectus ac varius fermentum, justo velit imperdiet quam, vitae consectetur turpis urna ac diam. Etiam faucibus molestie dui et vulputate. Sed interdum malesuada sollicitudin. Phasellus eget consequat arcu. Mauris accumsan nunc at urna auctor, sed pellentesque elit lacinia. Morbi accumsan arcu a tellus vulputate, ut interdum odio mollis.</h1>;
+    <div className="container">
+    <h1 className="title">Prohibition and Women’s Rights</h1>
+    <p>
+    The social movement behind Prohibition had been brewing since the mid-19th century, and gender dynamics had always been part of it.
+    “Men would go to the tavern, drink away mortgage money, drink so much they couldn’t go to work the next day, beat their wives, abuse 
+    their children. That’s what launched the beginning of the temperance movement,” Daniel Okrent, former Time Inc. editor-at-large and 
+    author of Last Call: The Rise and Fall of Prohibition, recently told TIME.
+    </p>
+    <h1>U.S. Attorney General Mabel Walker Willebrandt</h1>
+    <h5>As the highest-ranking woman in the federal government back then 
+      and one of the first women appointed to a sub-Cabinet position, she
+      oversaw Prohibition through three presidential administrations. The
+      media called her “Prohibition Portia” and “Mrs. Firebrand,” and she 
+      made the cover of TIME in 1929. She didn’t come from a temperance 
+      background and didn’t make statements linking Prohibition to feminism, 
+      but she acknowledged the key role that women have played in ridding society 
+      of vice. “Women must use the scrubbing brush and soap,” she said in a 1924 
+      Buffalo Enquirer article headlined “Women Alone Can Rid Cities of Vice, 
+      Says Women Asst. Atty. Gen.”</h5>
+    </div>
+  </div>
 }
