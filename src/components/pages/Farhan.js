@@ -4,11 +4,11 @@ import './Farhan.css';
 export default function Farhan() {
   return <div className="Farhan">
 
-    <div className="container">
+    <div className="con">
       <img className="temp" src='images/Temperance.jpg'></img>
       <h1 className="title"> Temperance Movement</h1>
       <p>
-      The Temperance movement started before the Eighteenth Amendment. Throughout the country abundance of individuals began to dispute alcohol at the time. Many believed that alcohol was morally ruining and damaging families financially.
+      The Temperance movement started before the Eighteenth Amendment. At the time many people started to dispute alcohol. People believed that alcohol was ruining and damaging families financially.
       Women claimed men would drink their family's money away. This temperance movement influenced women to join the Prohibition movement. Women felt as they had to join the movement because they were dealing with drunk husbands and fathers in their household.
       In such a way it allowed women the be part of politics during the time period.
       One major group that pushed for Prohibition was the Woman's Christian Temperance Union and On the other end of the spectrum was the Women's Organization for National Prohibition Reform.
@@ -18,7 +18,7 @@ export default function Farhan() {
       </p>
     </div>
 
-    <div className="container">
+    <div className="con">
       <img className="temp" src='images/WomensCrusade.jpg'></img>
       <h1 className="title"> Women's Crusade</h1>
       <p>
@@ -40,14 +40,14 @@ The campaign was not endorsed by all women. Some women spat alongside their male
 From temperance.Both women and men, whatever the cause, saw alcohol as a serious moral problem and helped the crusaders.  
      </p>
     </div>
-    <div className="container">
+    <div className="con">
       <img className="temp" src='images/populistparty.jpg'></img>
       <h1 className="title">Populist Party</h1>
       <p>
       The populist party faced many conflicts within the group. Although most individuals were for the prohibition reform. Even though they never announced where they stood on their view of the movement as a collective group. Francis E Williard motivated the populist party to make an official statement. She also tried the combine WCTU with the Prohibition party because they made an impact on Populist members. 
       She was not successful with her attempt because the Prohibity didn’t think it was necessary to support Women’s Suffrage on top of what they have accomplished try to reform.   </p>
     </div>
-    {/* <div className="container">
+    {/* <div className="con">
       <img className="temp" src='images/TWCTU.jpg'></img>
 
       <h1 className="title">The Women's Christian Temperance Union</h1>
@@ -62,7 +62,7 @@ Under a popular chief, Willard, the WCTU was organized, but had considerable aut
 
 
 
-    <div className="container">
+    <div className="con">
       <img className="temp" src='images/Annie.jpg'></img>
       <h1 className="title">Annie Wittenmyer</h1>
       <p>
@@ -72,7 +72,7 @@ Under a popular chief, Willard, the WCTU was organized, but had considerable aut
         the Non-Partisan Women's Christian Temperance Union
       </p>
     </div>
-    <div className="container">
+    <div className="con">
       <img className="temp" src='images/Frances.jpg'></img>
       <h1 className="title">Frances Willard</h1>
       <p>
@@ -84,7 +84,7 @@ Under a popular chief, Willard, the WCTU was organized, but had considerable aut
         but her tour garnered large crowds and some success. It did not achieve long-term success and Texas prohibitionists maintained their separation from the northern based prohibition movement and Willard herself.
       </p>
     </div>
-    <div className="container">
+    <div className="con">
       <img className="temp" src='images/Carrie.jpg'></img>
       <h1 className="title">Carrie A. Nation</h1>
       <p>
@@ -96,7 +96,7 @@ Under a popular chief, Willard, the WCTU was organized, but had considerable aut
       </p>
     </div>
 
-    <div className="container">
+    <div className="con">
       <img className="temp" src='images/Pauline.jpg'></img>
       <h1 className="title">Pauline Morton Sabin</h1>
       <p>
@@ -108,7 +108,7 @@ Under a popular chief, Willard, the WCTU was organized, but had considerable aut
     </div>
 
 
-    <div className="container">
+    <div className="con">
 
       <img className="temp" src='images/bootleg.jpg'></img>
       <h1 className="title">Bootleggers</h1>
@@ -126,7 +126,7 @@ Under a popular chief, Willard, the WCTU was organized, but had considerable aut
          </p>
     </div >
 
-    <div className="container">
+    <div className="con">
 
       <img className="temp" src='images/saloon.jpg'></img>
       <h1 className="title">Changes in Social Life</h1>
@@ -134,7 +134,7 @@ Under a popular chief, Willard, the WCTU was organized, but had considerable aut
         Before Prohibition women generally stayed away from saloons and bars, mostly drinking behind the closed doors of their own homes. During Prohibition, however, women started occupying more public areas such as speakeasies. Breaking rules seemed to appeal to a large population of women and drinking in a public setting was no longer limited to those considered to have low morals.
       </p>
     </div>
-    <div className="container">
+    <div className="con">
       <img className="temp" src='images/smasher.jpg'></img>
       <h1 className="title"> Reactions to the Movement</h1>
       <p>
@@ -142,7 +142,7 @@ Under a popular chief, Willard, the WCTU was organized, but had considerable aut
         There were mixed reactions to the movement. Some thought that they were pursuing a noble cause, but others believed that Prohibition was a failure and an overreach on the part of the government.
         The newspaper Carrie Nation was an editor for in Topeka, Kansas was titled The Smasher’s Mail and published scathing reviews of Nation's actions the first week of February, 1901. Some of those that wrote in claimed that God was in favor of saloons and criticized her for saying she was a follower of God. Others praised her for her actions.</p>
     </div>
-    <div className="container">
+    <div className="con">
       <img className="temp" src='images/politics.png'></img>
       <h1 className="title">Prolitical Views, and Class Divides</h1>
       <p>
