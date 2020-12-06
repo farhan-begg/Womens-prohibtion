@@ -8,59 +8,60 @@ export default function Farhan() {
       <img className="temp" src='images/Temperance.jpg'></img>
       <h1 className="title"> Temperance Movement</h1>
       <p>
-        The Temperance movement started before the Eighteenth Amendment. Across the country many people began arguing that alcohol was morally corrupting and hurting
-        families economically. Claiming men would drink their family's money away. This temperance movement paved the way for some women to join the Prohibition movement,
-        which they often felt was necessary due to their personal experiences dealing with drunk husbands and fathers. Also, it was one of the few ways for women to enter politics at the time.
-        One of the most notable groups that pushed for Prohibition was the Woman's Christian Temperance Union. On the other end of the spectrum was the Women's Organizationfor National Prohibition Reform, who were instrumental in getting
-        the 18th Amendment repealed. These women argued that Prohibition was a breach of the
-        rights of American citizens and frankly ineffective due to the prevalence of bootlegging.
-        Women's Crusade
+      The Temperance movement started before the Eighteenth Amendment. Throughout the country abundance of individuals began to dispute alcohol at the time. Many believed that alcohol was morally ruining and damaging families financially.
+      Women claimed men would drink their family's money away. This temperance movement influenced women to join the Prohibition movement. Women felt as they had to join the movement because they were dealing with drunk husbands and fathers in their household.
+      In such a way it allowed women the be part of politics during the time period.
+      One major group that pushed for Prohibition was the Woman's Christian Temperance Union and On the other end of the spectrum was the Women's Organization for National Prohibition Reform.
+      The Womens Organization for National Prohibition Reform was heavily involved in getting the 18th Amendment repealed. The group disputed that the Prohibition took rights away from citizens,
+     and that the prohibition is ineffective because bootleggers.
+
       </p>
     </div>
 
     <div className="container">
       <img className="temp" src='images/WomensCrusade.jpg'></img>
       <h1 className="title"> Women's Crusade</h1>
+      <p>
+   Before the Women's Christian Temperance Union, there was the  Women's Crusade.
+     Their aim was to end alcoholism as they saw it as detrimental disease to their society. In 1874, the Crusade was founded in Ohio and it gave chance for women to promote national temperance.
+     The movement began when Dr. Diocletian Lewis gave lectures, telling the story of how his mother went to the saloons and prayed and sang songs. Which caused the saloons to close.
+      At first, however this approach didn't have much success.
+    The movement had some success in Hillsboro, Ohio, There men and women learned from Dr. Diocletian and began following his ways. Men provided money and emotional support, although the focul point of the movement was women.
+  after another one of Lewis' lectures the movement really began to take off.
 
-      <p>The Women's Crusade started before the Women's Christian Temperance Union.
-      Their goal was to end alcoholism as they saw it as a social ill. The Crusade was organized in Ohio in 1874 and created an opportunity for women to promote national temperance.
-      The movement started due to the lectures given by Dr. Diocletian Lewis, who told the story of his mother getting a saloon to close by praying and singing. Though his techniques had limited success at first.
-      However, the movement began to have success in Hillsboro, Ohio, where men and women who heard his lecture excitedly decided to try his methods.
-      Men provided financial and emotional support, but women were the face of the movement. Hillsboro had moderate success, but it was after another one of Lewis’ lectures in Washington Court House, Ohio, that the movement really began to have success.
-      After Hillsboro and Washington Court House, crusades erupted in small towns all over Ohio, Michigan, Indiana, Pennsylvania, and New Jersey.
-      Nationwide a total of 750 breweries closed, and many shopkeepers pledged to sell alcohol only to those with prescriptions.
-      The tactics of the movement involved picketing, praying and singing hymns publicly, marching in the streets, and asking for pledges from local shopkeepers and saloon owners.
-      Saloons that were particularly harsh towards the crusaders would often have women stand in front of their doors, blocking entry, such was the case at a saloon in Adrian, Michigan after the saloon owner locked two of the women leaders in the saloon.
-      Not all women supported the movement. Some women spat at the crusaders alongside their male companions, either because they felt it wasn't a woman's place to act so publicly, or because they didn't support
-      temperance. Whatever the reason, many women and men saw drinking as a serious moral issue and supported the crusaders.
-      </p>
+
+
+
+  Crusades were successful in small towns all over Ohio, Michigan, Indiana, Pennsylvania, and New Jersey erupted after Hillsboro.
+There were 750 breweries closed across the country, and a lot of shopkeepers sold alcohol only to those with prescriptions.
+The movement's tactic was to picket, openly pray and sing, march in the streets, and ask local shopkeepers and saloon owners for pledges.
+Saloons that were especially harsh against the crusaders would always have women standing in front of their doors, blocking entry, as was the case after the saloon owner locked two of the women leaders in the saloon at a saloon in Adrian, Michigan.
+The campaign was not endorsed by all women. Some women spat alongside their male companions at the crusaders, either because they felt it was not the place of a woman to behave so openly, or because they did not help them.
+From temperance.Both women and men, whatever the cause, saw alcohol as a serious moral problem and helped the crusaders.  
+     </p>
     </div>
     <div className="container">
       <img className="temp" src='images/populistparty.jpg'></img>
       <h1 className="title">Populist Party</h1>
       <p>
-        The Populist party faced divisions within itself, but the majority of its members were individually for the Prohibition Reform. However, they never officially announced where they stood
-        on their view of the movement as a collective group. Francis E. Willard was one of many who urged the Populist party to make an official statement. She tried to join the WCTU with the Prohibition party
-        because they seemed to be making an impact on Populist members. She received opposition in her attempt because the Prohibition party didn't feel ready to support Women's Suffrage on top of what they were already trying to reform.
-        However, the Populist party still had allies such as James Baird Weaver and Ignatius Donnelly who were in full support of both Prohibition and Women's Suffrage.
-        The Women's Christian Temperance Union was organized on November 18, 1874 in Cleveland, Ohio. It quickly became the largest women's organization in the United States.
-        The women in the movement were inspired by the serious drinking problem in the United States and the disproportionate ills that come upon women whose husbands were drunkards.
-        It was seen as both a moral and home issue, allowing women to join the political sphere in unprecedented ways.
-        Men were barred from voting and holding office within the movement, though they were asked to contribute financially.
-      </p>
+      The populist party faced many conflicts within the group. Although most individuals were for the prohibition reform. Even though they never announced where they stood on their view of the movement as a collective group. Francis E Williard motivated the populist party to make an official statement. She also tried the combine WCTU with the Prohibition party because they made an impact on Populist members. 
+      She was not successful with her attempt because the Prohibity didn’t think it was necessary to support Women’s Suffrage on top of what they have accomplished try to reform.   </p>
     </div>
-    <div className="container">
+    {/* <div className="container">
       <img className="temp" src='images/TWCTU.jpg'></img>
 
       <h1 className="title">The Women's Christian Temperance Union</h1>
       <p>
-        The Women's Christian Temperance Union was founded by Annie Wittenmyer in 1874. In 1879 Frances E. Willard became the new president and remained president until her death. The organization did not purely focus on temperance, but also promoted other social controls and the issue of equality for women.
-        These other issues were part of Willard's “Do Everything” policy.
-        The WCTU was united under a common leader, Willard, but had significant autonomy for local chapters.
-        Willard often traveled the country to promote the WCTU and visit local chapters. She visited Texas in 1882 and California in 1883.These visits inspired rapid membership growth.
-        There were many women that gained prominence during the Prohibition era, whether supporting or fighting the 18th Amendment. Among them were Presidents and members of the WCTU, and founders of the WONPR.
-      </p>
+      On November 18, 1874, in Cleveland, Ohio, the Women's Christian Temperance Union was organized. It soon became the largest association for women in the United States. The women in the movement were inspired in the United States by the extreme drinking epidemic and the irrational ills that befell women whose husbands were drunkards. 
+It was seen as both a moral and domestic challenge, enabling women to unprecedentedly enter the political sphere .
+Under the revolution, men were barred from voting and taking office, though they were asked to contribute financially. 
+In 1874, Annie Wittenmyer founded the Women's Christian Temperance Union. In 1879, the new president was Frances E. Willard, who remained president until her death. 
+The corporation did not concentrate only on temperance, but also encouraged other social restrictions and the issue of equality for women. "These other problems were part of Willard's policy of "Do Something.
+Under a popular chief, Willard, the WCTU was organized, but had considerable autonomy for local chapters. In order to support the WCTU, Willard also traveled the country and visited local chapters. She visited Texas in 1882 and California in 1883. These visits stimulated rapid growth in membership growth. </p>
     </div>
+
+
+
     <div className="container">
       <img className="temp" src='images/Annie.jpg'></img>
       <h1 className="title">Annie Wittenmyer</h1>
@@ -149,7 +150,7 @@ export default function Farhan() {
         Class Divides
         There is controversy over class divides in the support for Prohibition. Some claim that working class-women supported Prohibition because they viewed alcohol as the vice keeping them in poverty. Their husbands would go and drink their money away, leaving them without the money to buy food and other supplies. Others claim that working-class women, along with their husbands, were for repeal because of the new power it gave to police forces to interfere with their lives.[20]
       </p>
-    </div>
+    </div> */}
   </div >
 
 }
