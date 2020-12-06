@@ -1,0 +1,10 @@
+.markeezy {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.mark {
+    box-shadow: 0 14px 20px rgba(0, 0, 0, 0.1); 
+}
