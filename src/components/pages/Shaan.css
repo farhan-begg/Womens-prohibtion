@@ -1,20 +1,45 @@
 .shaan-container {
-    margin: 10px;
-    display: column;
-    justify-content: center;
-}
-
-
-.rights-title {
-    font-size: 32pt;
-
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d3/Elegant_Background-4.jpg");
+  background-size: cover;
 }
 
 .shaan-container > p {
-    margin: 1px;
+  margin: 5px;
+  font-size: 16pt;
+  line-height: 2;
+  text-align: justify;
+  text-indent: 50px;
+  font-weight: lighter;
+}
+
+.shaan-container > p {
+  margin: 5px;
+  font-size: 16pt;
+  line-height: 2;
+  text-align: justify;
+  text-indent: 50px;
+}
+
+.shaan-image {
+  width: 600px;
+  align-self: center;
+}
+
+.shaan-image2 {
+    height: 500px;
+    align-self: center;
+}
+
+.shaan-container > h3 {
+    margin: 4px;
+    font-weight: bold;
+}
+
+.shaan-container > ul {
     font-size: 14pt;
-    line-height: 2;
-    text-align: justify;
-    text-indent: 50px;
-    color: ;
+    margin: 4px;
 }

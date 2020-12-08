@@ -47,22 +47,3 @@
 
 
 
-.shaan-container {
-  height: 100vh;
-  padding: 50px;
-  display: column;
-  justify-content: center;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d3/Elegant_Background-4.jpg");
-  background-size: cover;
-  background-position: middle;
-}
-
-.shaan-container > p {
-  margin: 5px;
-  font-size: 16pt;
-  line-height: 2;
-  text-align: justify;
-  text-indent: 50px;
-  font-weight: lighter;
-  
-}
