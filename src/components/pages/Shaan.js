@@ -4,7 +4,7 @@ import './Shaan.css'
 export default function Shaan() {
   return (
     <div className="shaan-container">
-      <h1>The Broken Gener Barrier</h1>
+      <h1>The Broken Gender Barrier</h1>
       <p>
         The prohibition era was an era of radical reform for women. Before the 1920s women were forced to carry on stereotypical gender roles that
          prevented them from having much freedom. After the suffrage  movement was passed in 1920, women became optimistic and venturous with their 

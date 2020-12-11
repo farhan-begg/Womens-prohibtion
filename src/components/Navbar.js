@@ -46,7 +46,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Mark
+               Overview
               </Link>
             </li>
             <li className='nav-item'>
@@ -55,7 +55,16 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Shaan
+                The Broken Gender Barrier
+              </Link>
+            </li>
+            <li className='nav-item'>
+              <Link
+                to='/farhan'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
+                Movements and Bootleggers
               </Link>
             </li>
             <li className='nav-item'>
@@ -67,15 +76,7 @@ function Navbar() {
                 Sandy
               </Link>
             </li>
-            <li className='nav-item'>
-              <Link
-                to='/farhan'
-                className='nav-links'
-                onClick={closeMobileMenu}
-              >
-                Farhan
-              </Link>
-            </li>
+         
             <li className='nav-item'>
               <Link
                 to='/arvin'
