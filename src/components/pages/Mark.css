@@ -1,8 +1,7 @@
 .markeezy {
     display: flex;
+    flex-flow: row wrap;
     justify-content: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
 
 .mark {
@@ -13,5 +12,12 @@
 .cited {
     display: block;
     align-self: flex-end;
+    padding: 50px;
+    margin: 50px;
+
+
+    box-shadow: 0 14px 20px rgba(0, 0, 0, 1);  
+    flex-flow: row wrap;
+
     
 }

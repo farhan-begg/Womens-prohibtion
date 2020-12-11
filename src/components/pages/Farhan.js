@@ -51,14 +51,12 @@ export default function Farhan() {
         </li>
         <li>Those activities were forbidden under the Eighteenth Amendment in (1919) to the U.S. Constitution. 
         </li>
-        <li>Most recorded bootleggers were men </li>
-        <li> There were female bootleggers, but approximately 170  cases were recorded. </li>
+        <li>Most of them were men </li>
+        <li> There were some female bootleggers, but approximately only 170 cases were recorded. </li>
     
-        <li>Most female bootleggers were mothers who were trying to financially support their families </li>
+        <li>Most female bootleggers were mothers motives were to support their family </li>
         <li>
-        When arrested women appealed they needed to provide for their family. 
- High risk of mothers losing custody of their children 
-
+        When arrested women appealed they needed to provide for their children. 
         </li>
        
         </ul>

@@ -11,13 +11,13 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-9.jpg'
-              text='Lorem Ipsum'
+              text='Over View'
               label="Farhan's topic "
               path='/farhan'
             />
             <CardItem
-              src='images/img-2.jpg'
-              text='Lorem Ipsum'
+              src='images/bre.jpeg'
+              text='The Broken Gender Barrier'
               label="Shaan's topic"
               path='/shaan'
             />
@@ -30,8 +30,8 @@ function Cards() {
               path='/mark'
             />
             <CardItem
-              src='images/img-4.jpg'
-              text='Quisque a dolor erat. Duis laoreet consectetur mi. Donec eget rutrum quam. Etiam eu'
+              src='images/tempmain.jpg'
+              text='U.S. Attorney General Mabel Walker Willebrandt'
               label="Sandy's Topic"
               path='/sandy'
             />
