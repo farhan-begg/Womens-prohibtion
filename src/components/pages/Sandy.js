@@ -24,6 +24,13 @@ export default function Sandy() {
         temperance movement,” Daniel Okrent, author of Last Call: The Rise and Fall of Prohibition.
         </i>
         This launched American women to path new ways. 
+        Women stepped into jobs that were held by men due to their involvement in their fighting in World War I giving them a new 
+        view into how they lives could be with new abilities and opportunities. 
+        Women from many different socioeconomic backgrounds were given the opportunity to advance their social status through all of 
+        these innovations that gave them more independece and more freedom. 
+
+        All of these newfound rights and liberties quickly changed the ways women viewed themeselves and all of the growth possibilities 
+        their futures held.
       </p>
       <img src="https://s.abcnews.com/images/GMA/200817_gma_digital_suffrage_hpMain_16x9_992.jpg" height='650px' width="830px" alt='image' />
       <h1 className="title">Making Way For Women's Rights: <i>U.S. Attorney General Mabel Walker Willebrandt</i></h1>
