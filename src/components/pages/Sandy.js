@@ -7,10 +7,10 @@ export default function Sandy() {
   <div className="Container">
       <h1 className="title">Prohibition and Women’s Rights</h1>
       <p>
-      The social movement behind Prohibition had been brewing since the mid-19th century, and gender dynamics had always been part of it.
+      <h45>The social movement behind Prohibition had been brewing since the mid-19th century, and gender dynamics had always been part of it.</h45>
+
       “Men would go to the tavern, drink away mortgage money, drink so much they couldn’t go to work the next day, beat their wives, abuse 
-      their children. That’s what launched the beginning of the temperance movement,” Daniel Okrent, former Time Inc. editor-at-large and 
-      author of Last Call: The Rise and Fall of Prohibition, recently told TIME.
+      their children. That’s what launched the beginning of the temperance movement,” Daniel Okrent, author of Last Call: The Rise and Fall of Prohibition.
       </p>
       <img src="https://s.abcnews.com/images/GMA/200817_gma_digital_suffrage_hpMain_16x9_992.jpg" height='650px' width="830px" alt='image' />
       <h1 className="title">U.S. Attorney General Mabel Walker Willebrandt</h1>
@@ -26,5 +26,7 @@ export default function Sandy() {
         Says Women Asst. Atty. Gen.”
       </p>
       <img src="https://themobmuseum.org/wp-content/uploads/2016/03/3-14-16-Willenbrandt556x255.jpg" height='550px' width="1230px" alt='image' />
+      <h1>Sources</h1>
+      <p>“Women's Rights Advanced During Prohibition - Prohibition: An Interactive History.” Prohibition, prohibition.themobmuseum.org/the-history/how-prohibition-changed-american-culture/womens-rights/.</p>
     </div>
   )}

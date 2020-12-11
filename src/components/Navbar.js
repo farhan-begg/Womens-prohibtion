@@ -73,7 +73,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Sandy
+                Prohibition and Women's Rights
               </Link>
             </li>
          
