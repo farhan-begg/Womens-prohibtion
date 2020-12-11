@@ -29,6 +29,11 @@ export default function Shaan() {
         
       </p>
       <img src="https://img.huffingtonpost.com/asset/5b9d297a2200005600d98480.jpeg?ops=scalefit_960_noupscale" className='shaan-image2' alt='not working' />
+      <p>
+        Womens fashion made radical reforms during this era; a new style of dress was created
+        to be looser and reveal more skin. This dress became to be known as the flapper dress and it was one of the more popular outfits in this era. Women no longer felt the stigma
+        for acting unlady like, instead they saw it as an opportunity to push this social agenda of female freedom.
+      </p>
       <h3>Works Cited</h3>
       <ul>
         <li>Dumenil, Lynn. “The New Woman and the Politics of the 1920s.” OAH Magazine of History, vol. 21, no. 3, July 2007, pp. 22–26. EBSCOhost, doi:10.1093/maghis/21.3.22.</li>

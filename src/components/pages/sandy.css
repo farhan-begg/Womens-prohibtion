@@ -1,27 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap');
 
 .Container{
+    padding: 50px;
     display: flex;
-    flex-flow: row wrap;
+    flex-direction: column;
     justify-content: center;
-    margin-top: 20px;
 }
-.container{
+/* .container{
     width: 600px;
     height: 800px;
     margin: 20px;
     flex-flow: row wrap;
-}
+} */
 
-.container > p {
-    padding: 20px;
-    letter-spacing: .5px;
-    font-size: 15px;
-    font-family: 'Montserrat', sans-serif;
+.Container > p {
+    margin: 5px;
+    font-size: 18pt;
+    line-height: 2;
+    text-align: justify;
+    text-indent: 50px;
 }
-
+.Container > img{
+    align-self: center;
+}
 .title  {
-    padding-top: 20px;
-    font-size: 30px;
+    font-size: 28pt;
     color: rgb(156, 53, 53);
 }
