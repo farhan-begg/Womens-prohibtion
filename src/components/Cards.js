@@ -24,8 +24,8 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
-              text='Lorem Ipsum Quisque a dolor erat. Duis laoreet consectetur mi. Donec eget rutrum quam. Etiam eu'
+              src='images/prohibitionPoliticalCartoon.jpg'
+              text='What Lead to Prohibtion and Its Effects'
               label="Mark's topic"
               path='/mark'
             />
