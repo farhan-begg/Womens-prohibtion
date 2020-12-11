@@ -76,14 +76,14 @@ function Navbar() {
                 Prohibition and Women's Rights
               </Link>
             </li>
-         
+
             <li className='nav-item'>
               <Link
                 to='/arvin'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Arvin
+                Temperance Movement
               </Link>
             </li>
 
