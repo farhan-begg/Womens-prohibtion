@@ -7,4 +7,11 @@
 
 .mark {
     box-shadow: 0 14px 20px rgba(0, 0, 0, 0.1); 
+    height: 100%;
+}
+
+.cited {
+    display: block;
+    align-self: flex-end;
+    
 }
