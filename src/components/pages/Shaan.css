@@ -3,26 +3,21 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d3/Elegant_Background-4.jpg");
+  background-image: url("https://cdn.wallpapersafari.com/9/35/zHpUYd.jpg");
   background-size: cover;
+  opacity: .9;
 }
 
 .shaan-container > p {
   margin: 5px;
-  font-size: 16pt;
+  font-size: 18pt;
   line-height: 2;
   text-align: justify;
+  color: white;
   text-indent: 50px;
-  font-weight: lighter;
 }
 
-.shaan-container > p {
-  margin: 5px;
-  font-size: 16pt;
-  line-height: 2;
-  text-align: justify;
-  text-indent: 50px;
-}
+
 
 .shaan-image {
   width: 600px;
@@ -34,12 +29,19 @@
     align-self: center;
 }
 
+.shaan-container > h1 {
+  color: white;
+  font-size: 28pt;
+}
+
 .shaan-container > h3 {
     margin: 4px;
     font-weight: bold;
+    color: white;
 }
 
 .shaan-container > ul {
     font-size: 14pt;
     margin: 4px;
+    color: white;
 }
