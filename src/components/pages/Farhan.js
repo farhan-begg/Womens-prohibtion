@@ -51,30 +51,32 @@ export default function Farhan() {
         </li>
         <li>Those activities were forbidden under the Eighteenth Amendment in (1919) to the U.S. Constitution. 
         </li>
-        <li>Most of them were men </li>
+        <li>Mostly men were the ones commiting bootleg </li>
         <li> There were some female bootleggers, but approximately only 170 cases were recorded. </li>
     
-        <li>Most female bootleggers were mothers motives were to support their family </li>
+        <li>Most female bootleggers were mothers, there motives were to support their family </li>
         <li>
         When arrested women appealed they needed to provide for their children. 
-        </li>
-       
+        </li> 
         </ul>
       
 
 
-      </p>
-    </div>
-    <div className="con">
+
+
+ 
 
     <h1 className="title"> Works Cited</h1>
       <ul className="list">
       <li>
         Chused, Richard H. “The Temperance Movement’s Impact on Adoption of Women’s Suffrage.” Akron Law Review, vol. 53, no. 2, Dec. 2019, pp. 359–386. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=143792733&site=ehost-live.
-       </li>      
+       </li>     
+       <li>
+       Dallon, Craig W. “The Anti-Bootlegging Provisions: Congressional Power and Constitutional Limitations.” Vanderbilt Journal of Entertainment & Technology Law, vol. 13, no. 2, Winter 2011, pp. 255–321. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=61287200&site=ehost-live.
+         </li> 
       </ul>
+      </p>
       </div>
-        
        </div>
         
     
