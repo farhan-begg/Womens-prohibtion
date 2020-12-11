@@ -55,7 +55,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                The Broken Gender Barrier
+                Gender Barrier
               </Link>
             </li>
             <li className='nav-item'>
@@ -84,6 +84,16 @@ function Navbar() {
                 onClick={closeMobileMenu}
               >
                 Temperance Movement
+              </Link>
+            </li>
+
+            <li className='nav-item'>
+              <Link
+                to='/cited'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
+                MLA Works Citation
               </Link>
             </li>
 
